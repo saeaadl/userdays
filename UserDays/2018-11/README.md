@@ -1,6 +1,9 @@
+The AADL V3 discussion material can be found at https://github.com/saeaadl/aadlv3/tree/master/SAEAADLV3/2018-11
+
+
 Check the agenda for presentations related to different topics.  A couple of the presentations were given at the SAE conference that was co-located.
 
-The following presentations were recorded as video and **will be available shortly**.
+The following presentations were recorded as video.
 
 
 ANSYS Demo of AADL and FACE by Thierry Le Sergent:

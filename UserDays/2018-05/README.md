@@ -1,3 +1,6 @@
+The AADL V3 discussion material can be found at https://github.com/saeaadl/aadlv3/tree/master/SAEAADLV3/2018-05
+
+
 Check the agenda for presentations related to different topics.
 
 The following presentations were recorded as video and are available here.
